@@ -1,8 +1,6 @@
-# Exercise-3d-Shaders
+# Project 3 - Juicy Brick Breaker
 
-Exercise for MSCH-C220
-
-The final step adding "juicy" features to a simple brick-breaker game.
+Project for MSCH-C220
 
 
 ## Implementation
@@ -18,10 +16,6 @@ Built using Godot 2022.3
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
 
-
-## Future Development
-
-Power-ups, etc.
 
 ## Created by 
 Abigail Hanson
